@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
-#include "include/SDL.h"
-using namespace std;
-#undef main
-int main() {
-    SDL_Renderer *renderer;
-    cout << "Hello!";
+#include <SDL.H>
+
+int main(int argc, char* argv[]) {
+    SDL_Init(SDL_INIT_EVERYTHING);
+    SDL_Quit();
+    return 0;
 }

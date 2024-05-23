@@ -1,8 +1,0 @@
-C:\Users\Akiyama\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Akiyama/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\03_MyCode\UET_projects\LapTrinhNangCao\SDLGameProject -B D:\03_MyCode\UET_projects\LapTrinhNangCao\SDLGameProject\cmake-build-debug
--- Performing Test CMAKE_HAVE_LIBC_PTHREAD
--- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
--- Found Threads: TRUE  
--- Found SDL2: mingw32;-mwindows;D:/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;D:/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2.dll.a  
--- Configuring done (0.5s)
--- Generating done (0.0s)
--- Build files have been written to: D:/03_MyCode/UET_projects/LapTrinhNangCao/SDLGameProject/cmake-build-debug

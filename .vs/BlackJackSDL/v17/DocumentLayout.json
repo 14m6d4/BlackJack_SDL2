@@ -1,62 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\",
+  "WorkspaceRootPath": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Dealer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Dealer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Dealer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Dealer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Dealer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Dealer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Dealer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29DC2896-2081-4137-A208-62BC924B538E}|BlackJackSDL\\BlackJackSDL.vcxproj|solutionrelative:BlackJackSDL\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,176 +66,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Game.cpp",
-              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Game.cpp",
-              "RelativeDocumentMoniker": "BlackJackSDL\\Game.cpp",
-              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Game.cpp",
-              "RelativeToolTip": "BlackJackSDL\\Game.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-23T04:29:42.404Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Game.h",
-              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Game.h",
+              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Game.h",
               "RelativeDocumentMoniker": "BlackJackSDL\\Game.h",
-              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Game.h",
+              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Game.h",
               "RelativeToolTip": "BlackJackSDL\\Game.h",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-23T04:29:26.575Z"
+              "WhenOpened": "2024-05-23T04:29:26.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Player.h",
+              "RelativeDocumentMoniker": "BlackJackSDL\\Player.h",
+              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Player.h",
+              "RelativeToolTip": "BlackJackSDL\\Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T04:27:50.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Texture.h",
+              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Texture.h",
+              "RelativeDocumentMoniker": "BlackJackSDL\\Texture.h",
+              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Texture.h",
+              "RelativeToolTip": "BlackJackSDL\\Texture.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T04:28:25.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Common.h",
+              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Common.h",
+              "RelativeDocumentMoniker": "BlackJackSDL\\Common.h",
+              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Common.h",
+              "RelativeToolTip": "BlackJackSDL\\Common.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T04:25:43.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Card.h",
+              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Card.h",
+              "RelativeDocumentMoniker": "BlackJackSDL\\Card.h",
+              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Card.h",
+              "RelativeToolTip": "BlackJackSDL\\Card.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T04:24:35.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Game.cpp",
+              "RelativeDocumentMoniker": "BlackJackSDL\\Game.cpp",
+              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Game.cpp",
+              "RelativeToolTip": "BlackJackSDL\\Game.cpp",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAALkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T04:29:42.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dealer.h",
+              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Dealer.h",
+              "RelativeDocumentMoniker": "BlackJackSDL\\Dealer.h",
+              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Dealer.h",
+              "RelativeToolTip": "BlackJackSDL\\Dealer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T04:26:43.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Defs.h",
+              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Defs.h",
+              "RelativeDocumentMoniker": "BlackJackSDL\\Defs.h",
+              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Defs.h",
+              "RelativeToolTip": "BlackJackSDL\\Defs.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T04:25:17.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Card.cpp",
+              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Card.cpp",
+              "RelativeDocumentMoniker": "BlackJackSDL\\Card.cpp",
+              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Card.cpp",
+              "RelativeToolTip": "BlackJackSDL\\Card.cpp",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAALMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T04:27:00.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Common.cpp",
+              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Common.cpp",
+              "RelativeDocumentMoniker": "BlackJackSDL\\Common.cpp",
+              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Common.cpp",
+              "RelativeToolTip": "BlackJackSDL\\Common.cpp",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAJMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T04:26:13.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dealer.cpp",
+              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Dealer.cpp",
+              "RelativeDocumentMoniker": "BlackJackSDL\\Dealer.cpp",
+              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Dealer.cpp",
+              "RelativeToolTip": "BlackJackSDL\\Dealer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T04:27:31.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Player.cpp",
+              "RelativeDocumentMoniker": "BlackJackSDL\\Player.cpp",
+              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Player.cpp",
+              "RelativeToolTip": "BlackJackSDL\\Player.cpp",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAFEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T04:28:06.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Texture.cpp",
-              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Texture.cpp",
+              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Texture.cpp",
               "RelativeDocumentMoniker": "BlackJackSDL\\Texture.cpp",
-              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Texture.cpp",
+              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Texture.cpp",
               "RelativeToolTip": "BlackJackSDL\\Texture.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-23T04:28:40.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Texture.h",
-              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Texture.h",
-              "RelativeDocumentMoniker": "BlackJackSDL\\Texture.h",
-              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Texture.h",
-              "RelativeToolTip": "BlackJackSDL\\Texture.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-23T04:28:25.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Player.cpp",
-              "RelativeDocumentMoniker": "BlackJackSDL\\Player.cpp",
-              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Player.cpp",
-              "RelativeToolTip": "BlackJackSDL\\Player.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-23T04:28:06.558Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Player.h",
-              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Player.h",
-              "RelativeDocumentMoniker": "BlackJackSDL\\Player.h",
-              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Player.h",
-              "RelativeToolTip": "BlackJackSDL\\Player.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-23T04:27:50.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\main.cpp",
-              "RelativeDocumentMoniker": "BlackJackSDL\\main.cpp",
-              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\main.cpp",
-              "RelativeToolTip": "BlackJackSDL\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-23T04:23:48.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Dealer.cpp",
-              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Dealer.cpp",
-              "RelativeDocumentMoniker": "BlackJackSDL\\Dealer.cpp",
-              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Dealer.cpp",
-              "RelativeToolTip": "BlackJackSDL\\Dealer.cpp",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAuwDUAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-23T04:27:31.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Dealer.h",
-              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Dealer.h",
-              "RelativeDocumentMoniker": "BlackJackSDL\\Dealer.h",
-              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Dealer.h",
-              "RelativeToolTip": "BlackJackSDL\\Dealer.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-23T04:26:43.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Card.cpp",
-              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Card.cpp",
-              "RelativeDocumentMoniker": "BlackJackSDL\\Card.cpp",
-              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Card.cpp",
-              "RelativeToolTip": "BlackJackSDL\\Card.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-23T04:27:00.818Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Card.h",
-              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Card.h",
-              "RelativeDocumentMoniker": "BlackJackSDL\\Card.h",
-              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Card.h",
-              "RelativeToolTip": "BlackJackSDL\\Card.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAUAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-23T04:24:35.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Common.cpp",
-              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Common.cpp",
-              "RelativeDocumentMoniker": "BlackJackSDL\\Common.cpp",
-              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Common.cpp",
-              "RelativeToolTip": "BlackJackSDL\\Common.cpp",
-              "ViewState": "AQIAALcAAAAAAAAAAAAAAFoAAABHAAAA",
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\main.cpp",
+              "RelativeDocumentMoniker": "BlackJackSDL\\main.cpp",
+              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\main.cpp",
+              "RelativeToolTip": "BlackJackSDL\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-23T04:26:13.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Common.h",
-              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Common.h",
-              "RelativeDocumentMoniker": "BlackJackSDL\\Common.h",
-              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Common.h",
-              "RelativeToolTip": "BlackJackSDL\\Common.h",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-23T04:25:43.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Defs.h",
-              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Defs.h",
-              "RelativeDocumentMoniker": "BlackJackSDL\\Defs.h",
-              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\SDLGameProject\\BlackJackSDL\\Defs.h",
-              "RelativeToolTip": "BlackJackSDL\\Defs.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-23T04:25:17.699Z"
+              "WhenOpened": "2024-05-23T04:23:48.995Z",
+              "EditorCaption": ""
             }
           ]
         }

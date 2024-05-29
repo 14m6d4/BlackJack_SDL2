@@ -9,8 +9,7 @@ int main(int argc, char** argv) {
 	Game* game = new Game();
 	game->render();
 	game->running();
-	std::cout << "ok success!";
-	//waitUntilKeyPressed();
+	std::cout << "Successful!";
 	delete game;
 	return 0;
 }

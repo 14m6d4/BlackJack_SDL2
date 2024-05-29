@@ -3,21 +3,16 @@
 
 Dealer::Dealer(SDL_Renderer* renderer) {
 	score = 0;
+	number_ace = 0;
 }
 
 Dealer::~Dealer() {
-	/*int size = cards.size();
-	for (int i = 0; i < size; i++) {
-		delete cards[i];
-		cards[i] = nullptr;
-	}*/
-	;
+	cards.clear();
 }
 
 void Dealer::render(bool is_stand, SDL_Renderer* renderer) {
 	int size = cards.size();
 	if (size < 2) {
-		std::cout << "size of cards of dealer < 2\n";
 		return;
 	}
 	if (is_stand) {
@@ -40,21 +35,17 @@ void Dealer::render(bool is_stand, SDL_Renderer* renderer) {
 }
 
 void Dealer::takeCard(Card* card) {
-	if (score + calculateScore(card->getRank()) <= 21) {
-		int score_card = calculateScore(card->getRank());
-		if (score_card == 1) {
-			if (score + 11 <= 21) {
-				score += 11;
-			}
-			else {
-				score += 1;
-			}
+	card->setBack();
+	cards.push_back(card);
+	if (card->getRank() == Rank::ACE) number_ace++;
+	score += calculateScore(card->getRank());
+	if (score > 21) {
+		while (number_ace > 0) {
+			score -= 10;
+			number_ace--;
+			if (score <= 21)
+				break;
 		}
-		else {
-			score += score_card;
-		}
-		card->setBack();
-		cards.push_back(card);
 	}
 }
 
@@ -65,12 +56,9 @@ void Dealer::showCard() {
 }
 
 void Dealer::newTurn() {
+	number_ace = 0;
 	score = 0;
 	cards.clear();
-	std::cout << "Clear dealer\n";
-	/*for (int i = 0; i < cards.size(); ++i) {
-		cards[i] = nullptr;
-	}*/
 }
 
 void Dealer::setFrontTopCard() {

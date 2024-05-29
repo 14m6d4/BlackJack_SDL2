@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\03_MyCode\UET_projects\LapTrinhNangCao\SDLGameProject\x64\Debug\BlackJackSDL.exe</FullPath>
+      <FullPath>D:\03_MyCode\UET_projects\LapTrinhNangCao\BlackJack_SDL2\x64\Debug\BlackJackSDL.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

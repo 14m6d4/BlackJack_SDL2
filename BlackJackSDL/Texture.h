@@ -1,5 +1,4 @@
 
-#pragma once
 #ifndef SUPPORT_H
 #define SUPPORT_H
 
@@ -18,11 +17,9 @@ public:
 	void setCoordinates(int x, int y) { coordinates.x = x, coordinates.y = y; }
 	void setImageTexture(std::string imagePath, SDL_Renderer* renderer);
 	void setText(const std::string text, const SDL_Color color, const std::string fontPath, SDL_Renderer* renderer);
-	void setWidth(int w) { coordinates.w = w; }
 
 	SDL_Rect getCoordinates() { return coordinates; }
 	SDL_Point getPosition() { return { coordinates.x, coordinates.y }; }
-	void move(int x, int y);
 
 private:
 	SDL_Rect coordinates;

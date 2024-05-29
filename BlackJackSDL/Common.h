@@ -41,7 +41,7 @@ Mix_Music* loadMusic(const std::string& path);
 
 bool checkCollision(const SDL_Rect& a, const SDL_Rect& b);
 
-void playAudio(Mix_Chunk* sound);
+void playSound(Mix_Chunk* sound);
 void playMusic(Mix_Music* gMusic);
 
 int calculateScore(Rank rank);

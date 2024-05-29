@@ -18,6 +18,7 @@ public:
 	void newTurn();
 private:
 	int score;
+	int number_ace;
 	std::vector<Card*> cards;
 };
 

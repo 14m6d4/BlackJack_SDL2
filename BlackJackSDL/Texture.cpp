@@ -31,7 +31,3 @@ void Texture::render(SDL_Renderer* renderer) {
 	SDL_RenderCopy(renderer, texture, NULL, &coordinates);
 }
 
-void Texture::move(int x, int y) {
-	coordinates.x -= x;
-	coordinates.y -= y;
-}

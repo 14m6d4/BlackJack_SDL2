@@ -1,11 +1,14 @@
-﻿  Common.cpp
+﻿  Card.cpp
+  Common.cpp
   Dealer.cpp
 D:\03_MyCode\UET_projects\LapTrinhNangCao\BlackJack_SDL2\BlackJackSDL\Dealer.cpp(14,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
 D:\03_MyCode\UET_projects\LapTrinhNangCao\BlackJack_SDL2\BlackJackSDL\Dealer.cpp(65,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Game.cpp
   Player.cpp
 D:\03_MyCode\UET_projects\LapTrinhNangCao\BlackJack_SDL2\BlackJackSDL\Player.cpp(43,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Texture.cpp
   main.cpp
 D:\03_MyCode\UET_projects\LapTrinhNangCao\BlackJack_SDL2\BlackJackSDL\main.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Generating Code...
+  LINK : D:\03_MyCode\UET_projects\LapTrinhNangCao\BlackJack_SDL2\x64\Debug\BlackJackSDL.exe not found or not built by the last incremental link; performing full link
   BlackJackSDL.vcxproj -> D:\03_MyCode\UET_projects\LapTrinhNangCao\BlackJack_SDL2\x64\Debug\BlackJackSDL.exe

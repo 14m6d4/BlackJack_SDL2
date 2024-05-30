@@ -66,21 +66,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Game.h",
-              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Game.h",
-              "RelativeDocumentMoniker": "BlackJackSDL\\Game.h",
-              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Game.h",
-              "RelativeToolTip": "BlackJackSDL\\Game.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-23T04:29:26.575Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 13,
@@ -91,8 +78,7 @@
               "RelativeToolTip": "BlackJackSDL\\Player.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-23T04:27:50.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T04:27:50.312Z"
             },
             {
               "$type": "Document",
@@ -104,8 +90,7 @@
               "RelativeToolTip": "BlackJackSDL\\Texture.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-23T04:28:25.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T04:28:25.762Z"
             },
             {
               "$type": "Document",
@@ -117,8 +102,7 @@
               "RelativeToolTip": "BlackJackSDL\\Common.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-23T04:25:43.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T04:25:43.462Z"
             },
             {
               "$type": "Document",
@@ -130,8 +114,7 @@
               "RelativeToolTip": "BlackJackSDL\\Card.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-23T04:24:35.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T04:24:35.505Z"
             },
             {
               "$type": "Document",
@@ -143,8 +126,7 @@
               "RelativeToolTip": "BlackJackSDL\\Game.cpp",
               "ViewState": "AQIAAMkAAAAAAAAAAAAAALkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-23T04:29:42.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T04:29:42.404Z"
             },
             {
               "$type": "Document",
@@ -156,8 +138,7 @@
               "RelativeToolTip": "BlackJackSDL\\Dealer.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-23T04:26:43.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T04:26:43.687Z"
             },
             {
               "$type": "Document",
@@ -169,8 +150,7 @@
               "RelativeToolTip": "BlackJackSDL\\Defs.h",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-23T04:25:17.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T04:25:17.699Z"
             },
             {
               "$type": "Document",
@@ -182,8 +162,7 @@
               "RelativeToolTip": "BlackJackSDL\\Card.cpp",
               "ViewState": "AQIAAJwAAAAAAAAAAAAAALMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-23T04:27:00.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T04:27:00.818Z"
             },
             {
               "$type": "Document",
@@ -195,8 +174,7 @@
               "RelativeToolTip": "BlackJackSDL\\Common.cpp",
               "ViewState": "AQIAAL0AAAAAAAAAAAAAAJMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-23T04:26:13.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T04:26:13.988Z"
             },
             {
               "$type": "Document",
@@ -208,8 +186,7 @@
               "RelativeToolTip": "BlackJackSDL\\Dealer.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-23T04:27:31.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T04:27:31.872Z"
             },
             {
               "$type": "Document",
@@ -221,8 +198,7 @@
               "RelativeToolTip": "BlackJackSDL\\Player.cpp",
               "ViewState": "AQIAAGwAAAAAAAAAAAAAAFEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-23T04:28:06.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T04:28:06.558Z"
             },
             {
               "$type": "Document",
@@ -232,10 +208,22 @@
               "RelativeDocumentMoniker": "BlackJackSDL\\Texture.cpp",
               "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Texture.cpp",
               "RelativeToolTip": "BlackJackSDL\\Texture.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-23T04:28:40.742Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Game.h",
+              "RelativeDocumentMoniker": "BlackJackSDL\\Game.h",
+              "ToolTip": "D:\\03_MyCode\\UET_projects\\LapTrinhNangCao\\BlackJack_SDL2\\BlackJackSDL\\Game.h",
+              "RelativeToolTip": "BlackJackSDL\\Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T04:29:26.575Z"
             },
             {
               "$type": "Document",
@@ -247,8 +235,7 @@
               "RelativeToolTip": "BlackJackSDL\\main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-23T04:23:48.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T04:23:48.995Z"
             }
           ]
         }

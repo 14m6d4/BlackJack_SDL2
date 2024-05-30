@@ -165,16 +165,16 @@ std::string Deck::getPath(int r, int s) {
 	return res;
 }
 
-Card* Deck::getCurrentCard() {
+Card* Deck::getCurrentCard() { //Xem la bai hien tai la la gi
 	return cards[current_card];
 }
 
-void Deck::increaseIndex() {
+void Deck::increaseIndex() { 
 	if (current_card < CARD_SIZE)
 		current_card++;
 }
 
 void Deck::newTurn() {
 	shuffle();
-	current_card = 1;
+	current_card = 0;
 }

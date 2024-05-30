@@ -12,7 +12,7 @@ public:
 	Player(SDL_Renderer* renderer);
 	~Player();
 
-	void render(SDL_Renderer* renderer);
+	void render(SDL_Renderer* renderer); //Ve tat ca cac texture
 	void takeCard(Card* card);
 	void standButton() { stand_button = true; }
 	bool getStandButton() { return stand_button; }
@@ -25,7 +25,7 @@ public:
 	int getCash() { return cash; }
 
 	void betCash(Mix_Chunk* button_click);
-	void remainingCash(bool is_victory);
+	void remainingCash(bool is_victory); 
 	void confirmCash() { confirm = true; }
 	bool getConfirm() { return confirm; }
 

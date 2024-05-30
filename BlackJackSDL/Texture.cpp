@@ -20,7 +20,7 @@ void Texture::setImageTexture(std::string imagePath, SDL_Renderer* renderer) {
 }
 
 void Texture::setText(const std::string text, const SDL_Color color, const std::string fontPath, SDL_Renderer* renderer) {
-	if (texture != nullptr) {
+	if (texture != nullptr) { //Neu texture dang tro den mot cai gi do thi xoa no di, de tao moi texture se khong ton bo nho
 		SDL_DestroyTexture(texture);
 		texture = nullptr;
 	}

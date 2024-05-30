@@ -19,6 +19,7 @@ public:
 	void confirmCash();
 	void newTurn();
 private:
+	//TEN CAC BIEN THANH PHAN
 	SDL_Window* window;
 	SDL_Renderer* renderer;
 	SDL_Event e;

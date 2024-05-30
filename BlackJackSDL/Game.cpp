@@ -59,7 +59,7 @@ void Game::render() {
 	if (game_state == GameState::Over) {
 		if (player->getScore() <= 21 && (player->getScore() > dealer->getScore() || dealer->getScore() > 21)) {
 			SDL_RenderCopy(renderer, game_victory, NULL, NULL);
-			player->remainingCash(true);
+			player->remainingCash(true); //
 
 		}
 		else {
@@ -80,8 +80,7 @@ void Game::render() {
 }
 
 void Game::running() {
-	while (game_state != GameState::Quit) {
-		//Game::intro;
+	while (game_state != GameState::Quit) { //Neu chua bam quit thi se chay lien tuc
 		Game::play();
 		Game::over();
 	}
@@ -97,7 +96,7 @@ void Game::play() {
 				game_state = GameState::Quit;
 				break;
 			}
-			else if (e.type == SDL_MOUSEBUTTONDOWN) {
+			else if (e.type == SDL_MOUSEBUTTONDOWN) { //Khi nhan chuot
 				Game::intruction();
 				Game::confirmCash();
 				if (player->getConfirm()) {
@@ -120,7 +119,7 @@ void Game::play() {
 				;
 			}
 		}
-		while (player->getStandButton() && (dealer->getScore() < player->getScore()) && dealer->getScore() < 21) {
+		while (player->getStandButton() && (dealer->getScore() < player->getScore()) && dealer->getScore() < 21) { //Khi nguoi choi stand, dealer se rut den khi nao co tong gia tri la bai lon hon hoac bang
 			dealer->takeCard(deck->getCurrentCard());
 			deck->increaseIndex();
 		}
@@ -189,7 +188,7 @@ void Game::newTurn() {
 void Game::intruction() {
 	int x, y;
 	SDL_GetMouseState(&x, &y);
-	if (0 <= x && x <= 80 && 0 <= y && y <= 100) {
+	if (0 <= x && x <= 80 && 0 <= y && y <= 100) { //Khi bam dau hoi
 		playSound(button_click);
 		game_state = GameState::Instructions;
 	}
@@ -198,7 +197,7 @@ void Game::intruction() {
 		while (SDL_PollEvent(&e)) {
 			if (e.type == SDL_MOUSEBUTTONDOWN) {
 				SDL_GetMouseState(&x, &y);
-				if (0 <= y && y <= 80 && x >= SCREEN_WIDTH - 80 && x <= SCREEN_WIDTH) {
+				if (0 <= y && y <= 80 && x >= SCREEN_WIDTH - 80 && x <= SCREEN_WIDTH) { //Khi bam exit
 					playSound(button_click);
 					game_state = GameState::Play;
 					break;

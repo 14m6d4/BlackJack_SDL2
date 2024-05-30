@@ -11,7 +11,6 @@ const std::string WINDOW_TITLE = "Blackjack";
 const std::string FONT_PATH = "Saddlebag-Black.ttf";
 
 const SDL_Color RED_COLOR = { 255, 0, 0 };
-const SDL_Color LIGHT_BLUE_COLOR = { 0, 255, 255 };
 const SDL_Color BLACK_COLOR = { 0, 0, 0 };
 
 const std::string GAME_LOST_PATH = "./Image\\Lost.png";

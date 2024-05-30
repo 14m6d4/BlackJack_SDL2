@@ -61,7 +61,7 @@ void Dealer::newTurn() {
 	cards.clear();
 }
 
-void Dealer::setFrontTopCard() {
+void Dealer::setFrontTopCard() { //Lat la bai dau len, luc dau up ca 2 la
 	int size = cards.size();
 	if (size < 1) return;
 	cards[0]->setFront();

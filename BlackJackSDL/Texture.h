@@ -14,9 +14,9 @@ public:
 	~Texture();
 	void render(SDL_Renderer* renderer);
 
-	void setCoordinates(int x, int y) { coordinates.x = x, coordinates.y = y; }
-	void setImageTexture(std::string imagePath, SDL_Renderer* renderer);
-	void setText(const std::string text, const SDL_Color color, const std::string fontPath, SDL_Renderer* renderer);
+	void setCoordinates(int x, int y) { coordinates.x = x, coordinates.y = y; } //Toa do cua vat the
+	void setImageTexture(std::string imagePath, SDL_Renderer* renderer); //Them anh
+	void setText(const std::string text, const SDL_Color color, const std::string fontPath, SDL_Renderer* renderer); //Them chu
 
 	SDL_Rect getCoordinates() { return coordinates; }
 	SDL_Point getPosition() { return { coordinates.x, coordinates.y }; }

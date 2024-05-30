@@ -20,12 +20,13 @@ Player::Player(SDL_Renderer* renderer) {
 }
 
 Player::~Player() {
+	cards.clear();
 	delete hit;
 	delete stand;
 }
 
 void Player::render(SDL_Renderer* renderer) {
-	hit->render(renderer);
+	hit->render(renderer); //Goi ham ve cua texture
 	stand->render(renderer);
 	if (confirm) {
 		Cash->setText("$" + std::to_string(cash), RED_COLOR, FONT_PATH, renderer);
